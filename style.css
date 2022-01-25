@@ -3,3 +3,7 @@
  justify-content: center;
  justify-content: space-between;   
 }
+
+.header-links {
+    display: flex;
+}
