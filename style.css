@@ -6,7 +6,8 @@
     color: #f9faf8;   
 }
 
-a {
+a,
+.secondary {
     font-size: 18px;
     color: #e5e7eb;
     text-decoration: none;
