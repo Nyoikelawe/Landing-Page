@@ -3,7 +3,9 @@
     flex-direction: column;
     justify-content: center;  
     font-size: 24px;
+    flex-grow: 0;
     color: #f9faf8;
+    padding: 0 200px 100px 200px;
 }
 
 .header-2 {
