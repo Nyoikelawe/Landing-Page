@@ -32,3 +32,8 @@ a,
 .container {
     display: flex;
 }
+
+.place-holder {
+    max-width: 400px;
+    height: 200px;
+}
