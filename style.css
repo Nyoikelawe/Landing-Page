@@ -6,6 +6,7 @@
     flex-grow: 0;
     color: #f9faf8;
     padding: 0 200px 100px 200px;
+    gap: 100px;
 }
 
 .header-2 {
@@ -33,10 +34,11 @@ a,
 
 .container {
     display: flex;
+    gap: 50px;
 }
 
 .placeholder {
-    width: 400px;
+    min-width: 400px;
     height: 200px;
 }
 
