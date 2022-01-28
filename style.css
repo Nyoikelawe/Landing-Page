@@ -56,3 +56,8 @@ button {
     display: flex;
     gap: 20px;
 }
+
+.random {
+    display: flex;
+    flex-direction: center;
+}
