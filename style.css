@@ -33,7 +33,7 @@ a,
     display: flex;
 }
 
-.place-holder {
-    max-width: 400px;
+.placeholder {
+    max-width: 10px;
     height: 200px;
 }
