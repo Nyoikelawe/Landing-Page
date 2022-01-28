@@ -51,3 +51,8 @@ button {
     font-weight: 700;
     font-size: 14px;
 } 
+
+.header-links {
+    display: flex;
+    gap: 20px;
+}
