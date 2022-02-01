@@ -87,3 +87,9 @@ img {
     font-size: 18px;
     color: #696969;
 }
+
+.background {
+    color: #E5E7EB;
+    font-weight: lighter;
+    font-style:italic;
+}
