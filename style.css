@@ -119,3 +119,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.with-style {
+    display: flex;
+}
