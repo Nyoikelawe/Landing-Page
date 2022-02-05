@@ -122,4 +122,5 @@ body {
 
 .with-style {
     display: flex;
+    gap: 150px;
 }
