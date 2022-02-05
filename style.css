@@ -96,6 +96,8 @@ img {
     font-weight: lighter;
     font-style:italic;
     font-size: 36px;
+    display: flex;
+    flex-direction: column;
 }
 
 body {
