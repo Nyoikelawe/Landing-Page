@@ -113,3 +113,9 @@ body {
     justify-content: flex-end;
     font-weight: 900;
 }
+
+.move {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
