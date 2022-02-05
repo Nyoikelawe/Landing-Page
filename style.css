@@ -108,4 +108,7 @@ body {
     margin: 0;
 }
 
-
+.god {
+    display: flex;
+    justify-content: flex-end;
+}
