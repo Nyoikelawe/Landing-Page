@@ -44,7 +44,7 @@ a,
     height: 180px;
 }
 
-button {
+.one {
     background-color: #3882F6;
     color: #f9faf8;
     border-radius: 5px;
@@ -123,10 +123,14 @@ body {
 .with-style {
     display: flex;
     gap: 150px;
-    background-color: #3882F6;
+    
+    padding: 50px 100px;
 }
 
 .two {
-    
+    border: 50px;
+    border-color: #22347b;
+    background-color: #3882F6;
+    color:#f9faf8;
 }
 
