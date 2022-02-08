@@ -136,6 +136,7 @@ body {
     color:#f9faf8;
     font-weight: 700;
     font-size: 14px;
+    border-radius: 5px;
 }
 
 .with-style button {
