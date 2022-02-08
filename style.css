@@ -150,8 +150,10 @@ body {
  }
 
  .footer {
-     text-align: center;
-     font-size: 18px;
+    text-align: center;
+    font-size: 18px;
     color: #e5e7eb;
+    padding-top: 30px;
+    padding-bottom: 30px;
  }
 
