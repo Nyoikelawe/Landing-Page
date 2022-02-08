@@ -130,13 +130,12 @@ body {
 }
 
 .two {
-    border: 50px;
-    border-color: #22347b;
     background-color: #3882F6;
-    color:#f9faf8;
+    color: #f9faf8;
+    border-radius: 5px;
+    padding: 5px 15px;
     font-weight: 700;
     font-size: 14px;
-    border-radius: 5px;
 }
 
 .with-style button {
